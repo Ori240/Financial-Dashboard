@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Finance Dashboard UI
 
 > A beginner-friendly personal finance tracker built with React + Vite + Tailwind CSS + Recharts.
@@ -297,3 +298,6 @@ Made with ❤️ by <a href="https://github.com/Ori240">Your Name</a>
 <a href="https://linkedin.com/in/your-profile">💼 Connect on LinkedIn</a>
 
 </div>
+=======
+# Financial-Dashboard
+>>>>>>> 87c5fde699c2ebb6bab27113bc8d9114ef8838d8
