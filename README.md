@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💰 Finance Dashboard UI
 
 > A beginner-friendly personal finance tracker built with React + Vite + Tailwind CSS + Recharts.
