@@ -8,7 +8,6 @@
 ![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38BDF8?style=flat-square&logo=tailwindcss)
 ![Recharts](https://img.shields.io/badge/Recharts-2.x-22b5bf?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
@@ -289,13 +288,13 @@ Whether you're building this to learn React or adding it to your developer portf
 
 <div align="center">
 
-Made with ❤️ by <a href="https://github.com/Ori240">Your Name</a>
+Made with ❤️ by <a href="https://github.com/Ori240">Arindam Rui Das</a>
 
 <br/><br/>
 
-<a href="https://github.com/your-username/finance-dashboard">⭐ Star this repo on GitHub</a> &nbsp;•&nbsp;
-<a href="https://your-demo-link.vercel.app">🌐 View Live Demo</a> &nbsp;•&nbsp;
-<a href="https://linkedin.com/in/your-profile">💼 Connect on LinkedIn</a>
+<a href="https://github.com/Ori240/finance-dashboard">⭐ Star this repo on GitHub</a> &nbsp;•&nbsp;
+<a href="https://financial-dashboard-by-arindam.vercel.app">🌐 View Live Demo</a> &nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/arindam-rui-das-317882248/">💼 Connect on LinkedIn</a>
 
 </div>
 =======
