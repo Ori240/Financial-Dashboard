@@ -912,8 +912,8 @@ export default function App() {
           <div className="nav-item">
             <Icon name="user" size={17} />
             <div>
-              <div style={{ fontSize: 13, fontWeight: 600 }}>Alex Morgan</div>
-              <div style={{ fontSize: 11, color: "var(--text3)" }}>alex@example.com</div>
+              <div style={{ fontSize: 13, fontWeight: 600 }}>Arindam Rui Das</div>
+              <div style={{ fontSize: 11, color: "var(--text3)" }}>arindam@gmail.com</div>
             </div>
           </div>
         </div>
