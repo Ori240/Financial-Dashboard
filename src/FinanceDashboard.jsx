@@ -893,7 +893,7 @@ export default function App() {
         <div className="sidebar-logo">
           <div className="sidebar-logo-icon"><Icon name="wallet" size={18} /></div>
           <div>
-            <div className="sidebar-logo-text">Zorvyn</div>
+            <div className="sidebar-logo-text">Truvio</div>
             <div className="sidebar-logo-sub">Finance Tracker</div>
           </div>
         </div>
